@@ -42,4 +42,4 @@ The dataset was created and annotated using Roboflow and contains:
 
 - defective solar panel images
 - normal solar panel images
-- YOLO format annotations
+- YOLO format annotations 
